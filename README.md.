@@ -1,0 +1,52 @@
+# SQL Functions and Data Transformation Project
+
+## Project Overview
+
+This project contains SQL solutions to a set of practical business and data transformation exercises. The tasks focus on data extraction, formatting, calculations, conditional logic, and analytical reporting using SQL.
+
+## Skills Demonstrated
+
+- String Functions
+- Date Functions
+- CASE Statements
+- Calculated Columns
+- Data Formatting
+- Data Filtering
+- Concatenation
+- Business Query Development
+- Data Transformation
+
+## Tasks Completed
+
+### Q1
+Extract first name and surname from customer names.
+
+### Q2
+Identify customers born between midnight and 6 AM.
+
+### Q3
+Retrieve products marked as returned.
+
+### Q4
+Format sales dates and create a Month_Year field.
+
+### Q5
+Calculate adjusted sales values based on return status.
+
+### Q6
+Compute profit/loss using adjusted sales values.
+
+### Q7
+Determine order quarters from order dates.
+
+### Q8
+Extract and concatenate product names with initials.
+
+### Q9
+Identify products with costs greater than 9000.
+
+## Tools Used
+
+- SQL
+- MySQL (or SQL Server/PostgreSQL - whichever you used)
+- GitHub
